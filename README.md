@@ -1,3 +1,5 @@
-# Teno
+# Letras VB
 
-Software para transcripciones excelentes de notas y obras.
+Software para buscar, editar, imprimir, etc. letras.
+
+Requisitos: Visual Studio con desarrollo Visual Basic y .NET framework.
