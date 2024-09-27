@@ -2,7 +2,7 @@
 
     Private Sub MainWindow_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        Me.Text = "Teno"
+        Me.Text = "Letras Visual Basic"
 
 
         ' TOP MENU
